@@ -52,5 +52,8 @@ public class LoginActivity extends BaseActivity<ActivityLoginBinding, LoginViewM
                 }
             }
         });
+
+        //测试分支的使用
+
     }
 }
