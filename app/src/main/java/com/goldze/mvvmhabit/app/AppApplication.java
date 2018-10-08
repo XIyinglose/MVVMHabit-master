@@ -35,4 +35,6 @@ public class AppApplication extends BaseApplication {
 //                .eventListener(new YourCustomEventListener()) //崩溃后的错误监听
                 .apply();
     }
+
+
 }
